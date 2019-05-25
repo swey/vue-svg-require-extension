@@ -1,0 +1,23 @@
+{
+  "name": "vue-svg-require-extension",
+  "version": "1.0.0",
+  "description": "Require extension for SVG support in server side rendered Vue",
+  "keywords": [
+    "vue",
+    "require",
+    "svg"
+  ],
+  "author": "Sebastian Weyrauch",
+  "main": "./index.js",
+  "scripts": {
+    "test": "mocha tests --recursive"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "engines": {
+    "node": "*"
+  },
+  "license": "MIT"
+}
